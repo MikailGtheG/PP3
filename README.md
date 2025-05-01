@@ -396,3 +396,5 @@ This will generate a table with two columns and two rows of data.
 ---
 
 **Remember:** Stop working after 90 minutes and record where you stopped!
+
+88 Minutes in Total
